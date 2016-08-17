@@ -1,0 +1,42 @@
+{
+  "header": {
+    "messages": {
+      "wronglink": "Oops, looks like you have visited an invalid link.",
+      "nofiles": "Oops. Looks like there aren't any files available here.",
+      "linkexpired": "Sorry, this link has expired.",
+      "linkexpiredon": "Sorry, the link has expired on ",
+      "shareboxheader": "ShareBox for Alfresco",
+      "shareboxfooter": "ShareBox External File Sharing for Alfresco by "
+    },
+    "labels": {
+      "files": "Files"
+    }
+  },
+  "labels": {
+    "viewselect": {
+      "blocks": "Blocks",
+      "list": "List"
+    },
+    "table": {
+      "name" : "Name",
+      "uploadedby": "Uploaded By",
+      "lastmodified": "Last Modified",
+      "download": "Download",
+      "open": "Open",
+      "up": " Up"
+    },
+    "upload": {
+      "uploadbutton": "Upload",
+      "selectfiles": "Please select the file(s) and click Upload.",
+      "maxlimitreached" : "This folder has reached the maximum items allowed. Therefore you cannot upload any more files."
+    },
+    "download": {
+      "downloadbutton": "Download",
+      "downloadzipbutton": "Download ZIP",
+      "downloadzipsizeexceeded" : "Aborting Zip download as max content size was exceeded. You may still be able to download files individually.",
+      "downloadzippreparing" : "Preparing Zip download file...<br>Download will start automatically once the file is ready.",
+      "downloadziprequesting"  : "Requesting download...",
+      "description": "Download the current folder and sub-folders as a ZIP archive"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Oops, looks like you have visited an invalid link.</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="peter" changedate="20160817T092519Z" creationid="peter" creationdate="20160817T092519Z">
+        <seg>Oops, looks like you have visited an invalid link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This file is available on ProofHQ</seg>
+      </tuv>
+      <tuv xml:lang="FR" changeid="peter" changedate="20160817T093242Z" creationid="peter" creationdate="20160817T093242Z">
+        <seg>This file is available on ProofHQ</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
