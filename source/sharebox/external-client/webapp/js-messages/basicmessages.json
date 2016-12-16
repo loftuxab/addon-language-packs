@@ -28,7 +28,16 @@
     "upload": {
       "uploadbutton": "Upload",
       "selectfiles": "Please select the file(s) and click Upload.",
-      "maxlimitreached" : "This folder has reached the maximum items allowed. Therefore you cannot upload any more files."
+      "maxlimitreached" : "This folder has reached the maximum items allowed. Therefore you cannot upload any more files.",
+      "processing" : "Processing...",
+      "abort" : "Cancel",
+      "fileexists" : "A file with the same name already exists. Please refresh the page and upload a file with a different name.",
+      "maxNumberOfFiles" : "Maximum number of files exceeded",
+      "acceptFileTypes": "File type not allowed",
+      "existingFile" : "A file already exists with the same name.",
+      "maxFileSize" : "File is too large",
+      "minFileSize" : "File is too small",
+      "uploadedBytes" : "Uploaded bytes exceed file size"
     },
     "download": {
       "downloadbutton": "Download",
