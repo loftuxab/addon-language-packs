@@ -4,7 +4,7 @@
       "wronglink": "Oops, looks like you have visited an invalid link.",
       "nofiles": "Oops. Looks like there aren't any files available here.",
       "linkexpired": "Sorry, this link has expired.",
-      "linkexpiredon": "Sorry, the link has expired on ",
+      "linkexpiredon": "Sorry, the link has expired on {expiryDate}",
       "shareboxheader": "ShareBox for Alfresco",
       "shareboxfooter": "ShareBox External File Sharing for Alfresco by "
     },
@@ -13,6 +13,16 @@
     }
   },
   "labels": {
+    "languages": {
+      "names" : {
+        "en" : "English",
+        "fr" : "French",
+        "sv" : "Swedish"
+      }
+    },
+    "common":{
+      "content_limit_exceeded" : "You are not allowed to access content beyond this folder."
+    },
     "viewselect": {
       "blocks": "Blocks",
       "list": "List"
@@ -26,24 +36,20 @@
       "up": " Up"
     },
     "upload": {
+      "selectfilesbutton": "Select Files",
+      "dropfileshere": "Drop files here",
       "uploadbutton": "Upload",
       "selectfiles": "Please select the file(s) and click Upload.",
       "maxlimitreached" : "This folder has reached the maximum items allowed. Therefore you cannot upload any more files.",
-      "processing" : "Processing...",
-      "abort" : "Cancel",
-      "fileexists" : "A file with the same name already exists. Please refresh the page and upload a file with a different name.",
-      "maxNumberOfFiles" : "Maximum number of files exceeded",
-      "acceptFileTypes": "File type not allowed",
-      "existingFile" : "A file already exists with the same name.",
-      "maxFileSize" : "File is too large",
-      "minFileSize" : "File is too small",
-      "uploadedBytes" : "Uploaded bytes exceed file size"
+      "uploadlimitnotice" : "You are allowed to upload {numberOfFiles} more file(s) in current folder.",
+      "file_exists_error" : "A file with the same name {fileName} exists within the current folder. Please rename the file before uploading or choose a different file.",
+      "max_item_limit_exceeded" : "Unable to complete upload. The maximum number of files and folders allowed for this folder has exceeded."
     },
     "download": {
       "downloadbutton": "Download",
       "downloadzipbutton": "Download ZIP",
       "downloadzipsizeexceeded" : "Aborting Zip download as max content size was exceeded. You may still be able to download files individually.",
-      "downloadzippreparing" : "Preparing Zip download file...<br>Download will start automatically once the file is ready.",
+      "downloadzippreparing" : "Preparing Zip download file... Download will start automatically once the file is ready.",
       "downloadziprequesting"  : "Requesting download...",
       "description": "Download the current folder and sub-folders as a ZIP archive"
     }
