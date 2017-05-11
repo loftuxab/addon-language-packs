@@ -4,7 +4,7 @@
       "wronglink": "Oops, looks like you have visited an invalid link.",
       "nofiles": "Oops. Looks like there aren't any files available here.",
       "linkexpired": "Sorry, this link has expired.",
-      "linkexpiredon": "Sorry, the link has expired on {expiryDate}",
+      "linkexpiredon": "Sorry, the link has expired on {expiryDate}.",
       "shareboxheader": "ShareBox for Alfresco",
       "shareboxfooter": "ShareBox External File Sharing for Alfresco by "
     },
