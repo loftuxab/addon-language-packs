@@ -35,12 +35,20 @@
       "open": "Open",
       "up": " Up"
     },
+    "viewer":{
+      "loading" : "Loading Preview...",
+      "back" : "Back",
+      "next" : "Next",
+      "previous" : "Previous",
+      "view": "View"
+    },
     "upload": {
       "selectfilesbutton": "Select Files",
       "dropfileshere": "Drop files here",
       "uploadbutton": "Upload",
       "selectfiles": "Please select the file(s) and click Upload.",
       "maxlimitreached" : "This folder has reached the maximum items allowed. Therefore you cannot upload any more files.",
+      "uploadselectlimitexceeded" : "You have selected more files to upload than you are allowed within the current folder.",
       "uploadlimitnotice" : "You are allowed to upload {numberOfFiles} more file(s) in current folder.",
       "file_exists_error" : "A file with the same name {fileName} exists within the current folder. Please rename the file before uploading or choose a different file.",
       "max_item_limit_exceeded" : "Unable to complete upload. The maximum number of files and folders allowed for this folder has exceeded."
