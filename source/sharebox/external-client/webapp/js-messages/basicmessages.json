@@ -56,6 +56,8 @@
     "download": {
       "downloadbutton": "Download",
       "downloadzipbutton": "Download ZIP",
+      "downloadzipdismisserrormessage" : "Click to dismiss this message",
+      "downloadzipunknownerror" : "There was an error downloading the Zip archive.",
       "downloadzipsizeexceeded" : "Aborting Zip download as max content size was exceeded. You may still be able to download files individually.",
       "downloadzippreparing" : "Preparing Zip download file... Download will start automatically once the file is ready.",
       "downloadziprequesting"  : "Requesting download...",
