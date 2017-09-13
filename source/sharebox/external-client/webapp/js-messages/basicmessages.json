@@ -46,9 +46,11 @@
       "selectfilesbutton": "Select Files",
       "dropfileshere": "Drop files here",
       "uploadbutton": "Upload",
+      "startuploadbutton": "Start Upload",
       "selectfiles": "Please select the file(s) and click Upload.",
+      "empty": "{fileName} is empty. Empty files are not allowed to be uploaded.",
       "maxlimitreached" : "This folder has reached the maximum items allowed. Therefore you cannot upload any more files.",
-      "uploadselectlimitexceeded" : "You have selected more files to upload than you are allowed within the current folder.",
+      "uploadselectlimitexceeded" : "You have selected more files to upload than you are allowed within the current folder. You can only add {numberOfFiles} more file(s).",
       "uploadlimitnotice" : "You are allowed to upload {numberOfFiles} more file(s) in current folder.",
       "file_exists_error" : "A file with the same name {fileName} exists within the current folder. Please rename the file before uploading or choose a different file.",
       "max_item_limit_exceeded" : "Unable to complete upload. The maximum number of files and folders allowed for this folder has exceeded."
