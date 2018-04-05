@@ -17,7 +17,9 @@
       "names" : {
         "en" : "English",
         "fr" : "French",
-        "sv" : "Swedish"
+        "sv" : "Swedish",
+        "nl" : "Dutch",
+        "de" : "German"
       }
     },
     "common":{
